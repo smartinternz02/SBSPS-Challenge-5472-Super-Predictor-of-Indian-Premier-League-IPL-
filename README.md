@@ -9,7 +9,7 @@ We used IBM Cognos Analytics to develop a statistical and graphical dashboard fo
   
 ## Cognos Analytics link
 
-https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fabc&action=view&mode=dashboard&subView=model0000017b97ad8aa0_00000000
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fabc&action=view&mode=dashboard&subView=model0000017b95c2db6c_00000002
 
 ## Our Team
 
